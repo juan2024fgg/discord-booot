@@ -1,0 +1,3 @@
+0 gatos
+1 gatos IA
+2 no gato
